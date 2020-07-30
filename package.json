@@ -4,7 +4,7 @@
   "description": "A calendar heatmap visualization in Kibana Visualize app",
   "main": "index.js",
   "kibana": {
-    "version": "6.4.0",
+    "version": "7.6.1",
     "templateVersion": "1.0.0"
   },
   "license": "Apache-2.0",
